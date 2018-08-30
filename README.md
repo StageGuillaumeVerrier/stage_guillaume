@@ -8,12 +8,14 @@ Assignments:
 
 1- Review of the theory of basic fluid mechanics, on the following topics:
 
-  a.	Internal flows
-  b.	Venturi tubes
-  c.	Orifice plates
-  d.	Head losses
-  e.	Bernoulli equation
-  f.	Fundamentals of Aerodynamics and Wind Tunnels;
+  a- Internal flows;
+  b- Venturi tubes;
+  c- Orifice plates;
+  d- Head losses;
+  e- Bernoulli equation;
+  f- Fundamentals of Aerodynamics and Wind Tunnels;
+  
+  
 2.	Review of basic instrumentation required for experiments on the topics present at assignment 1;
 3.	Measurements and CAD drawings of the hydraulic bench and the Wind Tunnel;
 4.	Formulation of a minimum of 10 experiments that can be performed at the bench;
