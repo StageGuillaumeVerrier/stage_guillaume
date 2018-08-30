@@ -20,12 +20,16 @@ Assignments:
   
   f. Fundamentals of Aerodynamics and Wind Tunnels;
 
-  
 2.	Review of basic instrumentation required for experiments on the topics present at assignment 1;
+
 3.	Measurements and CAD drawings of the hydraulic bench and the Wind Tunnel;
+
 4.	Formulation of a minimum of 10 experiments that can be performed at the bench;
+
 5.	Execution of the experiments of assignment 4 at the bench;
+
 6.	Data treatment and analysis for the experiments of assignment 4 using the basic instrumentation;
+
 7.	Writing of laboratory scripts for each experiment, containing:
 
   a.	Basic theory;
@@ -35,6 +39,8 @@ Assignments:
   c.	Experimental procedures;
   
 8.	Planning of automated data acquisition setup for the experiments at the bench and at the Wind tunnel;
+
 9.	Assembly and testing of the data acquisition setup;
+
 10.	Write a report for the performed work for analysis;
 
