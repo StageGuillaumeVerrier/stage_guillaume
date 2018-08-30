@@ -5,7 +5,9 @@ This document is not intended to go through all the steps of the work of the stu
 Those assignments should be delivered to the teacher using the chronogram below.
 
 Assignments:
+
 1- Review of the theory of basic fluid mechanics, on the following topics:
+
   a.	Internal flows
   b.	Venturi tubes
   c.	Orifice plates
