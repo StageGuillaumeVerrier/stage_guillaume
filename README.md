@@ -9,12 +9,14 @@ Assignments:
 1. Review of the theory of basic fluid mechanics, on the following topics:
 
   a. Internal flows;
-  When a fluid is flowing inside a solide (like a pipe), 
+  When a fluid is flowing inside a solide (like a pipe), depending on the parametres of the pipe the fluid can be in a laminar flow (Re<2000) or a turbulent flow (Re>5000) or in a transition flow (2000<Re<5000). Depending the roughness of the pipe, different head losses can be observed for a fluid in movement (see below)
   
   b. Venturi tubes;
-    Venturi tubes are tubes with a shape similar to an hourglass. they are based on the venturi effect : for an internal flow, the reduction of the passage section implie a raise of the velocity and a drop of the pressure.
+    Venturi tubes are tubes with a shape similar to an hourglass. they are based on the venturi effect : for an internal flow, the reduction of the passage section implie a raise of the velocity and a drop of the static pressure. Venturi tubes a commonly used to check the flow rate of a fluid.
+  
   c. Orifice plates;
     Orifice plates are used in order to check the flow rate. It is based on the venturi effect and it is ruled by the Bernoulli formula.
+  
   d. Head losses;
     head losses are concequences of the viscosity of a fluid : the friction between a fluid and the solid which contain it. head losses are closely related to the nature of the flow (laminar or turbulent). There is two type of head losses : 
     -linear head losses due to the friction between the fluid and the solid (between a pipe and the water flow inside for exemple). There is two type of linear head losse : in turbulent and laminar flow :
@@ -27,6 +29,7 @@ Assignments:
   
   f. Fundamentals of Aerodynamics and Wind Tunnels;
     in aerodynamics the two main forces are the lift and drag forces, the lift force is perpendicular to the flow of fluid        around a solid (air flow around an aircraft for exemple) the drag force is opposed to the movement of the solid. 
+    Due to the limitation of a wind tunneln in order to create a similar flow around a model and around a real aircraft, condition of similarity must be respected (same Reynold's number for each model)
 
 2.	Review of basic instrumentation required for experiments on the topics present at assignment 1;
 
