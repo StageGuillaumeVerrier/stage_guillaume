@@ -18,7 +18,7 @@ Assignments:
     Orifice plates are used in order to check the flow rate. It is based on the venturi effect and it is ruled by the Bernoulli formula.
   
   d. Head losses;
-    head losses are concequences of the viscosity of a fluid : the friction between a fluid and the solid which contain it. head losses are closely related to the nature of the flow (laminar or turbulent). There is two type of head losses : 
+    head losses are concequences of the action between a solid and a fluid : the friction between the fluid and the solid which contain it. head losses are closely related to the nature of the flow (laminar or turbulent). There is two type of head losses : 
     -linear head losses due to the friction between the fluid and the solid (between a pipe and the water flow inside for exemple). There is two type of linear head losse : in turbulent and laminar flow :
         -In laminar flow, the head losses follow the Darcy-Weisbach formula.
         -In turbulent flow, head losses follow the Colebrook formula.
