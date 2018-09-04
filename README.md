@@ -9,7 +9,7 @@ Assignments:
 1. Review of the theory of basic fluid mechanics, on the following topics:
 
   a. Internal flows;
-  When a fluid is flowing inside a solide (like a pipe), depending on the parametres of the pipe the fluid can be in a laminar flow (Re<2000) or a turbulent flow (Re>5000)or in a transition flow (2000<Re<5000) depending the speed of the fluid and the geometry of the pipe. Depending the roughness of the pipe, different head losses can be observed for a fluid in movement (see below)
+  When a fluid is flowing inside a solid (like a pipe), depending on the parameters of the pipe the fluid can be in a laminar flow (Re<2000) or a turbulent flow (Re>5000) or in a transition flow (2000<Re<5000) depending the speed of the fluid and the geometry of the pipe. Depending the roughness of the pipe, different head losses can be observed for a fluid in movement (see below)
   
   b. Venturi tubes;
     Venturi tubes are tubes based on the venturi effect : for an internal flow, the reduction of the passage section implies a raise of the velocity and a drop of the static pressure. Venturi tubes a commonly used to check the flow rate of a fluid.
@@ -33,9 +33,9 @@ Assignments:
 
 2.	Review of basic instrumentation required for experiments on the topics present at assignment 1;
 Internal flow :manometers (U tube )
-Venturi tube :manometer(U tube), flow meter (Rotatiometer)
-Orifice plate :manometer(U tube), flow meter (Rotatiometer)
-Head losses :manometer, 
+Venturi tube: manometer(U tube), flow meter (Rotatiometer)
+Orifice plate: manometer(U tube), flow meter (Rotatiometer)
+Head losses: manometer, 
 Bernoulli equation: flow meter, manometer
 Aerodynamics: model for the wind tunnel, gauge strain, pitot tube or hot wire or anemometer
 
