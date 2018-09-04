@@ -12,10 +12,10 @@ Assignments:
   When a fluid is flowing inside a solide (like a pipe), depending on the parametres of the pipe the fluid can be in a laminar flow (Re<2000) or a turbulent flow (Re>5000)or in a transition flow (2000<Re<5000) depending the speed of the fluid and the geometry of the pipe. Depending the roughness of the pipe, different head losses can be observed for a fluid in movement (see below)
   
   b. Venturi tubes;
-    Venturi tubes are tubes based on the venturi effect : for an internal flow, the reduction of the passage section implie a raise of the velocity and a drop of the static pressure. Venturi tubes a commonly used to check the flow rate of a fluid.
+    Venturi tubes are tubes based on the venturi effect : for an internal flow, the reduction of the passage section implies a raise of the velocity and a drop of the static pressure. Venturi tubes a commonly used to check the flow rate of a fluid.
   
   c. Orifice plates;
-    Orifice plates are used in order to check the flow rate. It is based on the venturi effect and it follow the Bernoulli formula. Orifice plates include a beta factor proportionnal to diameter of the flow before the orifice plate and after the same plate. It also introduce the C factor function of beta and the Cd factor (calculated by the 
+    Orifice plates are used in order to check the flow rate. It is based on the venturi effect and it follow the Bernoulli formula. Orifice plates include a beta factor proportionnal to diameter of the flow before the orifice plate and after the same plate. It also introduce the C factor function of beta and the Cd factor (calculated by the Reader-Harris/Gallagher equation).
   
   d. Head losses;
     head losses are concequences of the action between a solid and a fluid : the friction between the fluid and the solid which contain it. head losses are closely related to the nature of the flow (laminar or turbulent). There is two type of head losses : 
@@ -32,10 +32,10 @@ Assignments:
     Due to the limitation of a wind tunneln in order to create a similar flow around a model and around a real aircraft, condition of similarity must be respected (same Reynold's number for each model)
 
 2.	Review of basic instrumentation required for experiments on the topics present at assignment 1;
-internal flow :manometers (U tube )
-venturi tube :manometer(U tube), flow meter (Rotatiometer)
-orifice plate :manometer(U tube), flow meter (Rotatiometer)
-head losses :manometer, 
+Internal flow :manometers (U tube )
+Venturi tube :manometer(U tube), flow meter (Rotatiometer)
+Orifice plate :manometer(U tube), flow meter (Rotatiometer)
+Head losses :manometer, 
 Bernoulli equation: flow meter, manometer
 Aerodynamics: model for the wind tunnel, gauge strain, pitot tube or hot wire or anemometer
 
