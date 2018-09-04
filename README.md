@@ -15,7 +15,7 @@ Assignments:
     Venturi tubes are tubes with a shape similar to an hourglass. they are based on the venturi effect : for an internal flow, the reduction of the passage section implie a raise of the velocity and a drop of the static pressure. Venturi tubes a commonly used to check the flow rate of a fluid.
   
   c. Orifice plates;
-    Orifice plates are used in order to check the flow rate. It is based on the venturi effect and it follow the Bernoulli formula.
+    Orifice plates are used in order to check the flow rate. It is based on the venturi effect and it follow the Bernoulli formula. Orifice plates include a beta factor proportionnal to diameter of the flow before the orifice plate and after the same plate. It also introduce the C factor function of beta and the Cd factor (calculated by the 
   
   d. Head losses;
     head losses are concequences of the action between a solid and a fluid : the friction between the fluid and the solid which contain it. head losses are closely related to the nature of the flow (laminar or turbulent). There is two type of head losses : 
@@ -32,8 +32,12 @@ Assignments:
     Due to the limitation of a wind tunneln in order to create a similar flow around a model and around a real aircraft, condition of similarity must be respected (same Reynold's number for each model)
 
 2.	Review of basic instrumentation required for experiments on the topics present at assignment 1;
-  For each experiment based on the flow rate,a manometer is required, flowmeter (a rotatiometer and two U tube manometer are already equiped on the bench).
-  For wind tunnel experiment, strain gauge can be used to measure both lift and drag force, a pitot tube can be used for the measurement of the air flow velocity, an anemometer can be more easy to use.
+internal flow :manometers (U tube )
+venturi tube :manometer(U tube), flow meter (Rotatiometer)
+orifice plate :manometer(U tube), flow meter (Rotatiometer)
+head losses :manometer, 
+Bernoulli equation: flow meter, manometer
+Aerodynamics: model for the wind tunnel, gauge strain
 
 3.	Measurements and CAD drawings of the hydraulic bench and the Wind Tunnel;
 
