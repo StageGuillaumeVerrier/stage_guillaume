@@ -55,7 +55,7 @@ Aerodynamics: model for the wind tunnel, gauge strain, pitot tube or hot wire or
   
   c.	Experimental procedures;
   
-8.	Planning of automated data acquisition setup for the experiments at the bench and at the Wind tunnel;
+8.	Planning of automated data acquisition setup for the experiments at the bench and at the Wind tunnel; For the wind tunnel, if it is not possible to create a sensor, explain why and propose a solution which can be used.
 
 9.	Assembly and testing of the data acquisition setup;
 
